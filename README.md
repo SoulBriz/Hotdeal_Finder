@@ -1,9 +1,9 @@
 ## Hotdeal Finder - 특가상품 알리미
 
-###1. 쇼핑정보 공유 사이트 Scraping
+##1. 쇼핑정보 공유 사이트 Scraping
 - [ ] 특정 상품 일정 시간을 주기로, 새 게시글 업로드 추적
 
-###2. Telegram 연동으로 양방향 소통 구현
+##2. Telegram 연동으로 양방향 소통 구현
 - [ ] Telegram에서 검색어 input, 해당 검색어로 Scrapper 실행
 
 - 메신저 id와 검색어를 matching 하여, 알림은 해당 id 주인에게만 울리도록 한다.
